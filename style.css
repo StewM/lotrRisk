@@ -1,0 +1,33 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.starter-template td {
+	text-align: left;
+}
+
+form.login input.form-control,
+form.login select.form-control{
+	width: 222px;
+	margin-left: auto;
+	margin-right: auto; 
+}
+
+.right {
+	float: right;
+}
+
+.message.bg-danger,
+.message.bg-success {
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border: 1px solid;
+	border-color: #3c763d;
+}
