@@ -12,7 +12,7 @@
 	<div class="collapse navbar-collapse">
 	  <ul class="nav navbar-nav">
 		<li class="active"><a href="/">Menu</a></li>
-		<li><a href="#">Map</a></li>
+		<li><a href="/map.php">Map</a></li>
 		<li><a href="#">Hand</a></li>
 	  </ul>
 	  

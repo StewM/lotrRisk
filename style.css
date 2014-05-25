@@ -31,3 +31,112 @@ form.login select.form-control{
 	border: 1px solid;
 	border-color: #3c763d;
 }
+
+div.territories a{
+	height: 30px;
+	width: 30px;
+	display: block;
+	background: #ccc;
+	position: absolute;
+	border-radius: 15px;
+	box-shadow: 0px 2px 0px 0px #999;
+	color: #fff;
+	line-height: 30px;
+	border: none;
+	
+	
+}
+
+div.territories a#borderlands{
+	top: 280px;
+	left: 600px;
+}
+
+div.territories a#forlindon{
+	top: 360px;
+left: 250px;
+}
+
+div.territories a#mithlond{
+	top: 470px;
+left: 330px;
+}
+
+div.territories a#luneValley{
+	top: 340px;
+left: 395px;
+}
+
+div.territories a#evendimHills{
+	top: 315px;
+left: 500px;
+}
+
+div.territories a#towerHills{
+	top: 445px;
+left: 430px;
+}
+
+div.territories a#theShire{
+	top: 540px;
+left: 485px;
+}
+
+div.territories a#harlindon{
+	top: 625px;
+left: 305px;
+}
+
+div.territories a#forodwaith{
+	top: 115px;
+left: 845px;
+}
+
+div.territories a#easternAngmar{
+	top: 210px;
+left: 860px;
+}
+
+div.territories a#angmar{
+	top: 275px;
+left: 710px;
+}
+
+div.territories a#northDowns{
+	top: 350px;
+left: 610px;
+}
+
+div.territories a#fornost{
+	top: 420px;
+left: 605px;
+}
+
+div.territories a#weatherHills{
+	top: 445px;
+left: 675px;
+}
+
+div.territories a#rhudaur{
+	top: 420px;
+left: 770px;
+}
+
+div.territories a#buckland{
+	top: 520px;
+left: 545px;
+}
+
+div.territories a#oldForest{
+	top: 520px;
+left: 615px;
+}
+
+div.territories a#southDowns{
+	top: 610px;
+left: 615px;
+}
+
+
+
+
